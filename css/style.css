@@ -471,4 +471,14 @@ footer .link a {
         font-size: 55%;
     }
 
+    .hero {
+        position: relative;
+        top: 0rem;
+    }
+
+    .hero .content {
+        position: absolute;
+        top: 8rem;
+    }
+
 }
