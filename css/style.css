@@ -425,12 +425,12 @@ footer .link a {
 
     .hero {
         position: relative;
-        top: 5rem;
+        top: 0rem;
     }
 
     .hero .content {
         position: absolute;
-        top: 10rem;
+        top: 8rem;
     }
 
     .menu p {
